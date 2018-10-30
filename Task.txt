@@ -1,4 +1,6 @@
-﻿Puslapiavimas. Interneto svetainėje Dainius peržiūrinėja užsienio universitete studijuojančių
+﻿Užduotis iš devynioliktosios Lietuvos moksleivių informatikos olimpiados (2007 m.) antrojo etapo X-XII kl.
+
+Puslapiavimas. Interneto svetainėje Dainius peržiūrinėja užsienio universitete studijuojančių
 studentų sąrašą ir bando tarp jų surasti savo klasės draugus. Kadangi sąrašas ilgas, jis suskaidytas
 vienodo dydžio (turinčiais po K pavardžių) puslapiais. Paskutiniajame puslapyje pavardžių gali būti
 mažiau. Sąraše pavardės pateiktos nežinoma tvarka.
